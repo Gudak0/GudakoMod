@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "gudako:gudakium_block"
+        }
+    ],
+    "result": {
+        "item": "gudako:gudakium_ingot",
+        "count": 9
+    }
+}

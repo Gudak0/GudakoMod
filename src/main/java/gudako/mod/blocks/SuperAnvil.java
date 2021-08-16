@@ -20,7 +20,7 @@ import net.minecraft.util.text.TranslationTextComponent;
 import net.minecraft.world.World;
 
 public class SuperAnvil extends Block {
-    private static final ITextComponent CONTAINER_TITLE = new TranslationTextComponent("gudako.repair");
+    private static final ITextComponent CONTAINER_TITLE = new TranslationTextComponent("gudako.mod.container.superrepair");
 
     public SuperAnvil()
     {
